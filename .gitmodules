@@ -1,0 +1,3 @@
+[submodule "xMZ-Mod-Touch-Client-Server"]
+	path = xMZ-Mod-Touch-Client-Server
+	url = git@github.com:Kliemann-Service-GmbH/xMZ-Mod-Touch-Client-Server.git
