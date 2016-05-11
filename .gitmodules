@@ -1,3 +1,9 @@
 [submodule "xMZ-Mod-Touch-Client-Server"]
 	path = xMZ-Mod-Touch-Client-Server
 	url = git@github.com:Kliemann-Service-GmbH/xMZ-Mod-Touch-Client-Server.git
+[submodule "xmz_shift_register"]
+	path = xmz_shift_register
+	url = git@github.com:zzeroo/xmz_shift_register.git
+[submodule "xMZ-Mod-Touch-GUI"]
+	path = xMZ-Mod-Touch-GUI
+	url = git@github.com:zzeroo/xMZ-Mod-Touch-GUI.git
