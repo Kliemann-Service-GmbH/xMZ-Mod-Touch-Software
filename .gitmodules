@@ -9,7 +9,7 @@
 	url = https://github.com/zzeroo/xMZ-Mod-Touch-GUI.git
 [submodule "xMZ-Mod-Touch-Server"]
 	path = xMZ-Mod-Touch-Server
-	url = https://github.com/Kliemann-Service-GmbH/xMZ-Mod-Touch-Server
+	url = https://github.com/Kliemann-Service-GmbH/xMZ-Mod-Touch-Server.git
 [submodule "xMZ-Mod-Touch-Client"]
 	path = xMZ-Mod-Touch-Client
   url = https://github.com/Kliemann-Service-GmbH/xMZ-Mod-Touch-Client.git
