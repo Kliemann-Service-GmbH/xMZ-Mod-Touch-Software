@@ -15,4 +15,4 @@
   url = https://github.com/Kliemann-Service-GmbH/xMZ-Mod-Touch-Client.git
 [submodule "CO-NO2-Kombisensor-Mod-Kalibrator"]
 	path = CO-NO2-Kombisensor-Mod-Kalibrator
-	url = git@github.com:Kliemann-Service-GmbH/CO-NO2-Kombisensor-Mod-Kalibrator.git
+	url = https://github.com/Kliemann-Service-GmbH/CO-NO2-Kombisensor-Mod-Kalibrator.git
